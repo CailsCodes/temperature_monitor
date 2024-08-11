@@ -1,0 +1,3 @@
+[submodule "DFRobot_WiFi_IoT_Module"]
+	path = DFRobot_WiFi_IoT_Module
+	url = https://github.com/CailsCodes/DFRobot_WiFi_IoT_Module
